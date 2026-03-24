@@ -41,7 +41,7 @@ Control system used to regulate reactive power and maintain bus voltage through 
 ## Converter Design
 
 ### 48-Pulse Converter Configuration
-![Converter](Connection_of_2_six_pulse_converters_in_a_48_pulse_converter.png)
+![Converter](Block_configuration_of_the_48_pulse_converter.png)
 
 Topology of the 48-pulse converter formed by combining multiple 6-pulse converters to achieve improved harmonic performance.
 
