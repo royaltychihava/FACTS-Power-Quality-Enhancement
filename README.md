@@ -8,14 +8,14 @@ To evaluate how FACTS devices provide fast dynamic compensation and enhance syst
 
 ---
 
-## Modeling Approaches
+## Modelling Approaches
 
-### Dynamic Modeling
+### Dynamic Modelling
 - Implemented a detailed 48-pulse, three-level multipulse GTO-based converter  
 - Designed associated control structure for transient analysis  
 - Captured fast dynamic response of FACTS devices  
 
-### Phasor Average Modeling
+### Phasor Average Modelling
 - Used simplified algebraic equations  
 - Focused on steady-state system performance  
 - Suitable for large-scale system studies  
@@ -98,12 +98,12 @@ Three-phase output voltage of the 48-pulse converter demonstrating high-quality 
 
 - STATCOM effectively regulated voltage using DC-link control  
 
-- Phasor modeling reduced complexity while maintaining accuracy  
+- Phasor modelling reduced complexity while maintaining accuracy  
 
 ---
 
 ## Conclusion
-This project demonstrates the effectiveness of FACTS devices, particularly STATCOM, in improving voltage stability and power quality, while highlighting the trade-offs between detailed dynamic modeling and simplified phasor approaches.
+This project demonstrates the effectiveness of FACTS devices, particularly STATCOM, in improving voltage stability and power quality, while highlighting the trade-offs between detailed dynamic modelling and simplified phasor approaches.
 
 ---
 
