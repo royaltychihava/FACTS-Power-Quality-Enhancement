@@ -1,4 +1,4 @@
-# Modeling and Simulation of FACTS Devices for Power Quality Enhancement
+# Modelling and Simulation of FACTS Devices for Power Quality Enhancement
 
 ## Overview
 This project investigates the application of Flexible AC Transmission Systems (FACTS) devices to improve power quality and overall performance of electrical power systems.
